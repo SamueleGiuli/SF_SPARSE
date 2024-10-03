@@ -1,6 +1,6 @@
 # SF_SPARSE
 
-This package contains the sparse matrix implementation contained in (`SciFortran`)](https://github.com/aamaricci/SciFortran).
+This package contains the sparse matrix implementation contained in [(`SciFortran`)](https://github.com/aamaricci/SciFortran).
 
 ## Building and using
 
