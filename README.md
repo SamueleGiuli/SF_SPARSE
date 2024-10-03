@@ -11,3 +11,15 @@ To use `SF_SPARSE` within your FPM project, add the following to your `fpm.toml`
 [dependencies]
 SF_SPARSESCMethods = { git="https://github.com/SamueleGiuli/SF_SPARSE.git" }
 ```
+
+
+Authors and contributors  
+========================
+
++   [Samuele Giuli](https://github.com/SamueleGiuli)  
+    +   PhD student in Condensed Matter Physics @ SISSA, Trieste, Italy
+
+
++   [Adriano Amaricci](https://github.com/aamaricci)  
+    +   Research Staff at CNR-IOM
+
